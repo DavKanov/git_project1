@@ -1,0 +1,4 @@
+cd - changes directory to the folder named.
+$ cd www/
+$ mkdir git_project1
+$ cd git_project1/
